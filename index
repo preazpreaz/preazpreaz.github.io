@@ -1,0 +1,10 @@
+<! DOCTYPE html>
+<html>
+  <head>
+    <title> Alejandro's Top Ten Favorite Artists </title>
+  <style>
+     img {
+        width: 200px;
+        height: 150px;
+         }
+ </style>
