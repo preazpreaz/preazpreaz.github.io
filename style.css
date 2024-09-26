@@ -1,15 +1,22 @@
 <!DOCTYPE html>
-  <style>
-     img {
-        width: 250px;
-        height: 250px;
-         }
- </style>
- <head>
-   <style>
-    body {background:#1c1c1c}
-    h1 {color: #FFFFFF}
-    h3 {color: #CCCCCC}
-    p  {color: #ACACAC}
-   </style>
- </head>
+ /* styles.css */
+body {
+    background: #1c1c1c;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+h3 {
+    color: #CCCCCC;
+}
+
+p {
+    color: #ACACAC;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
